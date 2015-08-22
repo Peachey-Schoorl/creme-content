@@ -1,0 +1,10 @@
+# Site settings
+title: Pimmie's Wonder Crème
+email: pimmieschoorl+creme@gmail.com
+description: Propolis Crème voor handen, gezicht en lijf.
+url: "http://pimmie-creme.nl" # the base hostname & protocol for your site
+permalink: pretty
+baseurl: /creme
+
+# Build settings
+markdown: kramdown
