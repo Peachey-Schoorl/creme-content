@@ -1,9 +1,13 @@
 ---
 layout: home
-heading: Pimmie's Wonder Crème
+heading: "Pimmie's Wonder Crème"
 title: Home
+published: true
 ---
 
-Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.
 
-[Bestellen](bestellen) [Contact](contact) 
+Pimmie's Wonder Crème is een Propolis Crème voor handen, gezicht en lijf.
+
+Via de onderstaande knoppen kun je een bestelling plaatsen of een vraag stellen.
+
+[Bestellen](bestellen) [Contact](contact)
